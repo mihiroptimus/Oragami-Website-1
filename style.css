@@ -1,0 +1,23 @@
+h1{
+    color: #eb6e6e;
+    padding: 10px;
+    margin-left: 20px; 
+}
+.header{
+    background-color: #2b256b;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: #d7f5f2;
+}
+a:visited{
+    color: #eb6e6e;
+}
+img{
+    border:solid #181442;
+    border-width: 10px;
+}
+.item{
+    background-color: #cae8e5;
+}
